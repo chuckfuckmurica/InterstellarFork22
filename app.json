@@ -2,7 +2,7 @@
   "name": "edu",
   "description": "?",
   "repository": "https://github.com/interstellarnetwork/interstellar",
-  "logo": "https://avatars.githubusercontent.com/u/103917385",
+  "logo": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/973ce3b0-e887-411f-a0ee-cb2d0e119509/dggk58a-f64ebb89-4d66-4f2c-97f8-f05b09b48bb8.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk3M2NlM2IwLWU4ODctNDExZi1hMGVlLWNiMmQwZTExOTUwOVwvZGdnazU4YS1mNjRlYmI4OS00ZDY2LTRmMmMtOTdmOC1mMDViMDliNDhiYjgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.3zQ-viFBavHQMmXg1ISNUu-g-OQYF8g_ox8uff5yCfc",
   "keywords": ["school", "math"],
   "image": "heroku/nodejs"
 }

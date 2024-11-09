@@ -14,7 +14,7 @@ if (
   const popup = open("about:blank", "_blank");
   if (!popup || popup.closed) {
     alert(
-      "Please allow popups for this site. Doing so will allow us to open the site in a about:blank tab and preventing this site from showing up in your history. You can turn this off in the site settings.\n\nBy using Interstellar services, you confirm you have read and agreed to the terms listed in our Terms of Service and Privacy Policy, which can be found on the bottom of the settings page.",
+      "Please allow popups for this site. Doing so will allow us to open the site in a about:blank tab and preventing this site from showing up in your history. You can turn this off in the site settings.\n\nBy using Chuckz services, you confirm you have read and agreed to the terms listed in our Terms of Service and Privacy Policy, which can be found on the bottom of the settings page.",
     );
   } else {
     const doc = popup.document;
@@ -172,18 +172,18 @@ document.addEventListener("DOMContentLoaded", event => {
 });
 // Splash texts
 const SplashT = [
-  "Over 8 Million Users since 2023",
-  "Fastest growing proxy server",
-  "Made by xBubbo",
-  "Check out discord.gg/interstellar :)",
-  "Thanks for using the site",
-  "Follow us on Tiktok (@useinterstellar)",
-  "Subscribe to us on YouTube (@unblocking)",
-  "Subscribe to my Youtube (@xbubbo)",
-  "Check out the settings page",
-  "Check out our Patreon (https://www.patreon.com/gointerstellar)",
+  "Best proxy since.... we can't say",
+  "Based Off Interstellar",
+  "Made by Chuck",
+  "All we had to do was follow the damn train CJ!",
+  "Now anybody who knows Dre",
+  "speak ENGLISH??",
+  "more games cumming soon",
+  "Subscribe to my Youtube (@NendyLol)",
+  "When did I become a ghost?",
+  "snitches will be sniped",
+  "I LOVE THE BABIES",
 ];
-
 let SplashI = Math.floor(Math.random() * SplashT.length);
 const SplashE = document.getElementById("splash");
 
@@ -217,4 +217,5 @@ function getRandomUrl() {
 
 function randRange(min, max) {
   return Math.floor(Math.random() * (max - min) + min);
+
 }
